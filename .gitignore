@@ -1,0 +1,9 @@
+*.VC.db
+*.suo
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+Content/StarterContent/
+Intermediate/
+Saved/
+Binaries/
